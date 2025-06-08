@@ -21,6 +21,11 @@ body{
     font-size: 21px;
     color: gray;
 }
+.copy-right{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
 
 /* LINKS */
 
